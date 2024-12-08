@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@restackio/cloud": "^1.0.17"
+    "@restackio/cloud": "^1.0.18"
   }
 }
